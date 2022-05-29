@@ -2,6 +2,6 @@
 layout: page
 title: About
 ---
-<img src="https://raw.githubusercontent.com/LWFlouisa/FraponicConlang/main/images/banner.png" width="100%">
+Illustration of Archduc Taiko coming soon.
 
-Description coming soon.
+This is the about page for Archduc Taiko.
